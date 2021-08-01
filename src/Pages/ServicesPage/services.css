@@ -1,0 +1,52 @@
+body {
+    
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    vertical-align: middle;
+ 
+  }
+  .mission {
+    
+    background: rgb(255, 255, 255);
+    margin-top: 2%;
+    margin-bottom: 5%;
+    overflow: hidden;
+    vertical-align: middle;
+  }
+  
+  .mission:hover{
+    width:103%;
+  }
+  
+  .missionPic{
+    margin-left:2%;
+    display: fixed;
+    float:left; 
+    height:60%;
+    width:40%;
+    object-fit: contain;
+  }
+  .values{
+    overflow: hidden;
+    margin-top: 5%;
+  }
+  .valuesPic{
+    margin-right:2%;
+    float:right; 
+    height:60%;
+    width:40%;
+    max-zoom: 2;
+    max-width: 80%;
+    object-fit: contain;
+
+  }
+  .values:hover{
+    width:103%;
+  }
+  .about{
+      margin-top: 5%;
+  }
+  .about:hover{
+      width: 103%;
+  }

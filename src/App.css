@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat", sans-serif;
+}
+
+/*
+#d9e9fe
+#8fb4fa
+#6d89d0
+#f2564b
+*/
+
+body::-webkit-scrollbar {
+  display: none;
+}
